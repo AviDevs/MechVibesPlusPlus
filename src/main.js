@@ -1,4 +1,5 @@
 // Modules to control application life and create native browser window
+// Hola
 const { app, BrowserWindow, Tray, Menu, shell, ipcMain } = require('electron');
 const path = require('path');
 const fs = require('fs-extra');
